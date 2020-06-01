@@ -1,3 +1,4 @@
+[![Build Status](https://yukihide0318.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/it-ito.mslearn-tailspin-spacegame-web?branchName=master)](https://yukihide0318.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
